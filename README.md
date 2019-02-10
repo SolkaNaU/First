@@ -1,5 +1,7 @@
 # First
-algorithm for finding the longest continuous chain of ones in a sequence of zeros and ones
+Algorithm for finding the longest continuous chain of ones in a sequence of zeros and ones
+
 Aлгоритм поиска самой длинной непрерывной цепочки единиц в последовательности нулей и единиц .
 Входные данные: в файле INPUT.TXT записана последовательность нулей и единиц (в одну строку, без пробелов). 
-Общее количество цифр не превышает 100. Результат: в файл OUTPUT.TXT вывести искомую длину цепочки единиц.
+Общее количество цифр не превышает 100. 
+Результат: в файл OUTPUT.TXT вывести искомую длину цепочки единиц.
